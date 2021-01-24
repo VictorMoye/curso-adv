@@ -1,0 +1,19 @@
+Y:\C# 2010\modelos\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ADV_17_CHECKEDBOX.frmCheckBox.resources
+Y:\C# 2010\modelos\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ADV_17_CHECKEDBOX.Properties.Resources.resources
+Y:\C# 2010\modelos\ADV-17_CHECKBOX\ADV-17_CHECKBOX\bin\Debug\ADV-17_CHECKBOX.exe
+Y:\C# 2010\modelos\ADV-17_CHECKBOX\ADV-17_CHECKBOX\bin\Debug\ADV-17_CHECKBOX.pdb
+Y:\C# 2010\modelos\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ADV-17_CHECKBOX.exe
+Y:\C# 2010\modelos\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ADV-17_CHECKBOX.pdb
+Y:\C# 2010\modelos\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\C# 2010\modelos\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\C# 2010\modelos\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ADV-17_CHECKBOX.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ADV-17_CHECKBOX.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\bin\Debug\ADV-17_CHECKBOX.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\bin\Debug\ADV-17_CHECKBOX.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ADV_17_CHECKEDBOX.frmCheckBox.resources
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ADV_17_CHECKEDBOX.Properties.Resources1.resources
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-17_CHECKBOX\ADV-17_CHECKBOX\obj\x86\Debug\ADV_17_CHECKEDBOX.Properties.Resources.resources

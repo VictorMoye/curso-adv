@@ -1,0 +1,16 @@
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV_20-CLASSES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV_20-CLASSES\bin\Debug\ADV_20-CLASSES.exe
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.exe
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.pdb
+Z:\C# 2010\Lucas Ivan S Braga_11204\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.exe
+Z:\C# 2010\Lucas Ivan S Braga_11204\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV_20-CLASSES\bin\Debug\ADV_20-CLASSES.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV_20-CLASSES\bin\Debug\ADV_20-CLASSES.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\bin\Debug\ADV_20-CLASSES.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\bin\Debug\ADV_20-CLASSES.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ResolveAssemblyReference.cache

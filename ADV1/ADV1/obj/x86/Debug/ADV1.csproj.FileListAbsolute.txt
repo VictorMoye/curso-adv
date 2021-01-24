@@ -1,0 +1,10 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV1\bin\Debug\ADV1.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV1\bin\Debug\ADV1.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV1\obj\x86\Debug\ADV1.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV1\obj\x86\Debug\ADV1.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV1\ADV1\obj\x86\Debug\ADV1.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV1\ADV1\obj\x86\Debug\ADV1.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV1\ADV1\bin\Debug\ADV1.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV1\ADV1\bin\Debug\ADV1.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV1\ADV1\obj\x86\Debug\ResolveAssemblyReference.cache

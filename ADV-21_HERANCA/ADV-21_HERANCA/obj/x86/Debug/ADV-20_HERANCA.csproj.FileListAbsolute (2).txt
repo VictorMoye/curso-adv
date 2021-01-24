@@ -1,0 +1,11 @@
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-20_HERANCA\bin\Debug\ADV-20_HERANCA.exe
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-20_HERANCA\bin\Debug\ADV-20_HERANCA.pdb
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-20_HERANCA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-20_HERANCA\obj\x86\Debug\ADV_20_HERANCA.Properties.Resources.resources
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-20_HERANCA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-20_HERANCA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-20_HERANCA\obj\x86\Debug\ADV-20_HERANCA.exe
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-20_HERANCA\obj\x86\Debug\ADV-20_HERANCA.pdb
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-20_HERANCA\obj\x86\Debug\ADV_20_HERANCA.FrmHeranca.resources
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\obj\x86\Debug\ADV-20_HERANCA.exe
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\obj\x86\Debug\ADV-20_HERANCA.pdb

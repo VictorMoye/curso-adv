@@ -1,0 +1,10 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-30_GENERIC\bin\Debug\ADV-30_GENERIC.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-30_GENERIC\bin\Debug\ADV-30_GENERIC.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-30_GENERIC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-30_GENERIC\obj\x86\Debug\ADV-30_GENERIC.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-30_GENERIC\obj\x86\Debug\ADV-30_GENERIC.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\obj\x86\Debug\ADV-30_GENERIC.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\obj\x86\Debug\ADV-30_GENERIC.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\bin\Debug\ADV-30_GENERIC.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\bin\Debug\ADV-30_GENERIC.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\obj\x86\Debug\ResolveAssemblyReference.cache

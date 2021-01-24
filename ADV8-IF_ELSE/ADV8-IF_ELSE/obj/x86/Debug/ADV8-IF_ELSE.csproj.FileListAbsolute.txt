@@ -1,0 +1,10 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV8-IF_ELSE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV8-IF_ELSE\bin\Debug\ADV8-IF_ELSE.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV8-IF_ELSE\bin\Debug\ADV8-IF_ELSE.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV8-IF_ELSE\obj\x86\Debug\ADV8-IF_ELSE.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV8-IF_ELSE\obj\x86\Debug\ADV8-IF_ELSE.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV8-IF_ELSE\ADV8-IF_ELSE\obj\x86\Debug\ADV8-IF_ELSE.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV8-IF_ELSE\ADV8-IF_ELSE\obj\x86\Debug\ADV8-IF_ELSE.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV8-IF_ELSE\ADV8-IF_ELSE\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV8-IF_ELSE\ADV8-IF_ELSE\bin\Debug\ADV8-IF_ELSE.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV8-IF_ELSE\ADV8-IF_ELSE\bin\Debug\ADV8-IF_ELSE.pdb

@@ -1,0 +1,5 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-11_WHILE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-11_WHILE\bin\Debug\ADV-11_WHILE.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-11_WHILE\bin\Debug\ADV-11_WHILE.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-11_WHILE\obj\x86\Debug\ADV-11_WHILE.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-11_WHILE\obj\x86\Debug\ADV-11_WHILE.pdb

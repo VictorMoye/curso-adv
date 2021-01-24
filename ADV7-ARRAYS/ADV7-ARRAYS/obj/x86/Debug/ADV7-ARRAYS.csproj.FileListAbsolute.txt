@@ -1,0 +1,10 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV7-ARRAYS\bin\Debug\ADV7-ARRAYS.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV7-ARRAYS\bin\Debug\ADV7-ARRAYS.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV7-ARRAYS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV7-ARRAYS\obj\x86\Debug\ADV7-ARRAYS.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV7-ARRAYS\obj\x86\Debug\ADV7-ARRAYS.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV7-ARRAYS\ADV7-ARRAYS\obj\x86\Debug\ADV7-ARRAYS.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV7-ARRAYS\ADV7-ARRAYS\obj\x86\Debug\ADV7-ARRAYS.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV7-ARRAYS\ADV7-ARRAYS\bin\Debug\ADV7-ARRAYS.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV7-ARRAYS\ADV7-ARRAYS\bin\Debug\ADV7-ARRAYS.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV7-ARRAYS\ADV7-ARRAYS\obj\x86\Debug\ResolveAssemblyReference.cache

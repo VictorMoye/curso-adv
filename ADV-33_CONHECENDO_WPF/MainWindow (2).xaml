@@ -1,0 +1,147 @@
+﻿<Window x:Class="ADV_33_CONHECENDO_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:inst ="clr-namespace:ADV_33_CONHECENDO_WPF" 
+        Title="Conhecendo WPF" Height="350" Width="525" Closing="Window_Closing" Loaded="Window_Loaded" >
+    <Window.Resources>
+         <!--cria um objeto em execução QUE REPRESENTA A CLASSE INSTRUTOR  -->
+        <inst:Instrutor x:Key="objInstrutor"/>
+        
+        <!-- ESTILO PRA ERROS -->
+        <Style x:Key="Erro" TargetType="Control">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="true">
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={x:Static RelativeSource.Self},
+                        Path=(validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        
+        <!-- estilo contex Menu -->
+        <Style x:Key="ContexMenu">
+            <Setter Property="ContextMenu.Foreground" Value="Black"/>
+        </Style>
+
+        <ContextMenu x:Key="TexBoxMenu" Style="{StaticResource ContextMenu}">
+            <MenuItem Header="Limpa caixa de texto" Name="clearTxt" Click="clearTxt_Click">
+                <MenuItem.Icon>
+                    <Image Source="wand.png"/>
+                </MenuItem.Icon>
+            </MenuItem>
+        </ContextMenu>
+
+        <!--estilo da label titulo -->
+        <Style x:Key="lblTitutloStyle">
+            <Setter Property="Label.Foreground" Value="White"/>
+                <Setter Property="Label.FontSize" Value="14"/>
+                </Style>
+
+        
+            <!-- estilo do check box  -->
+        <Style x:Key="chkds">
+            <Setter Property="CheckBox.Foreground" Value="white"/>
+        </Style>
+        
+            <!-- estilo da label rotulo -->
+        <Style x:Key="lblRotulo">
+            <Setter Property="Label.FontSize" Value="12"/>
+            <Setter Property="Label.Foreground" Value="White"/>
+        </Style>
+
+            <!-- estilo ComboBox -->
+        <Style x:Key="combo">
+            <Setter Property="ComboBox.Background" Value="red"/>
+            <Setter Property="ComboBox.Foreground" Value="White"/>
+        </Style>      
+        
+
+              <!-- estilo EadioButton -->
+        <Style x:Key="rdbs">
+            <Setter Property="RadioButton.Foreground" Value="White"/>
+        </Style>
+
+        <!-- estilo GroupBox -->
+        <Style x:Key="Grupo">
+            <Setter Property="GroupBox.Foreground" Value="White"/>
+        </Style>
+        
+      </Window.Resources>
+    <Grid Width="525" Height="350">
+        <Button Content="Hellow" Height="23" HorizontalAlignment="Left" Margin="12,40,0,0" Name="btnHello" VerticalAlignment="Top" Width="75" Click="btnHello_Click" />
+
+        <Image Name="imgBG" Margin = "0,-4,0,4" Stretch = "fill">
+            <Image.Source>
+                <BitmapImage UriSource="bgWpf.jpg"/>
+            </Image.Source>
+        </Image>
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,64,0,0" Name="lblTitulo" VerticalAlignment="Top" Width="143" Foreground="#FF272424" Content="seleção de instrutor " Style="{StaticResource lblTitutloStyle}" />
+        <Label Content="nome" Height="25" HorizontalAlignment="Left" Margin="22,98,0,0" Name="label2" VerticalAlignment="Top" Width="62" />
+        <Label Content="instrutor de : " Height="26" HorizontalAlignment="Left" Margin="30,181,0,0" Name="label4" VerticalAlignment="Top" Width="76" ClipToBounds="False">
+            <Label.Background>
+                <ImageBrush />
+            </Label.Background>
+        </Label>
+        <!-- <TextBox Height="23" HorizontalAlignment="Left" Margin="71,75,0,0" Name="TxtNome" VerticalAlignment="Top" Width="180" ContextMenu="{StaticResource TextBoxMenu}" 
+                 Style="{StaticResource Erro}"> -->
+
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="71,75,0,0" Name="TxtNome" VerticalAlignment="Top" Width="180" >
+        <TextBox.Text>
+                <Binding Source="{StaticResource objInstrutor}" Path="Nome"
+                         ValidatesOnDataErrors="True" UpdateSourceTrigger="PropertyChanged">
+                    <Binding.ValidationRules>
+                        <ExceptionValidationRule/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <CheckBox Content="tem formação superior " Height="16" HorizontalAlignment="Left" Margin="329,95,0,0" Name="chkFormadoSim" VerticalAlignment="Top" DataContext="{Binding}"  Click="chkFormadoSim_Click" Style="{StaticResource chkds}" />
+        <ComboBox Height="38" HorizontalAlignment="Left" Margin="30,206,0,0" Name="cmbCursos" VerticalAlignment="Top" Width="175" Style="{StaticResource combo}" />
+        <GroupBox Header="Experiencia " Height="128" HorizontalAlignment="Left" Margin="287,163,0,0" Name="grpExemperiencia" VerticalAlignment="Top" Width="206">
+            <RadioButton Content="de 5  ate 9 anos " Height="15" Name="radioButton5" Width="91" Style="{StaticResource rdbs}"/>
+        </GroupBox>
+        <Grid Name="grpExperiencia" Style="{StaticResource Grupo}" Margin="503,267,-182,-56">
+            <RadioButton Content="RadioButton" Height="16" HorizontalAlignment="Left" Margin="78,15,0,0" Name="radioButton1" VerticalAlignment="Top" />
+            <RadioButton Content="RadioButton" Height="16" HorizontalAlignment="Left" Margin="29,44,0,0" Name="radioButton2" VerticalAlignment="Top" />
+            <RadioButton Content="RadioButton" Height="16" HorizontalAlignment="Left" Margin="46,67,0,0" Name="radioButton3" VerticalAlignment="Top" />
+            <RadioButton Content="RadioButton" Height="16" HorizontalAlignment="Left" Margin="49,99,0,0" Name="radioButton4" VerticalAlignment="Top" />
+            <Grid Height="122" Width="149" Name="grdItensExperiencia"/>
+        </Grid>
+        <RadioButton Content="10 ou mais anos " Height="16" HorizontalAlignment="Left" Margin="375,254,0,0" Name="radioButton6" VerticalAlignment="Top" Style="{StaticResource rdbs}" />
+        <RadioButton Content="de 1 ate 4 anos " Height="16" HorizontalAlignment="Left" Margin="376,206,0,0" Name="radioButton7" VerticalAlignment="Top" Style="{StaticResource rdbs}" />
+        <RadioButton Content="ate 1 ano" Height="16" HorizontalAlignment="Left" Margin="376,181,0,0" Name="radioButton8" VerticalAlignment="Top" Style="{StaticResource rdbs}" />
+        
+        <DockPanel Height="30" HorizontalAlignment="Stretch" Margin="0" VerticalAlignment="Top">
+            
+            <Menu Height="23" Name="mmnuOpcoes" Width="Auto" DockPanel.Dock="Top" VerticalAlignment="Top">
+
+            <MenuItem Header="Arquivo">
+                <MenuItem Header="Salvar" Name="itemMenuSave" Click="itemMenuSave_Click">
+                    <MenuItem.Icon>
+                        <Image Source="disk.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Abrir" Name="itemOpenFile" Click="itemOpenFile_Click">
+                    <MenuItem.Icon>
+                        <Image Source="folder_explore.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Sair" Name="itemClose" Click="itemClose_Click">                       
+                    <MenuItem.Icon>
+                        <Image Source="Cancel.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Ajuda">
+               <MenuItem Header="Versão" Name="itemVersao" Click="itemVersao_Click">
+                 <MenuItem.Icon>
+                    <Image Source="lightbulb.png"/>            
+                 </MenuItem.Icon>
+               </MenuItem>                            
+          
+            </MenuItem>
+          </Menu>
+        </DockPanel>
+        
+    </Grid>
+</Window>

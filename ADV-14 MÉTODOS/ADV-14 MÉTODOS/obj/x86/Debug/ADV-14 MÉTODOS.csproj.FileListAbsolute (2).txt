@@ -1,0 +1,5 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-14 MÉTODOS\bin\Debug\ADV-14 MÉTODOS.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-14 MÉTODOS\bin\Debug\ADV-14 MÉTODOS.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-14 MÉTODOS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-14 MÉTODOS\obj\x86\Debug\ADV-14 MÉTODOS.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-14 MÉTODOS\obj\x86\Debug\ADV-14 MÉTODOS.pdb

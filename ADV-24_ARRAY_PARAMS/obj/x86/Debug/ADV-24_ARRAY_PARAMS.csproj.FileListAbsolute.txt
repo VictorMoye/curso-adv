@@ -1,0 +1,9 @@
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-24_ARRAY_PARAMS\bin\Debug\ADV-24_ARRAY_PARAMS.exe
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-24_ARRAY_PARAMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-24_ARRAY_PARAMS\obj\x86\Debug\ADV-24_ARRAY_PARAMS.exe
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-24_ARRAY_PARAMS\obj\x86\Debug\ADV-24_ARRAY_PARAMS.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-24_ARRAY_PARAMS\obj\x86\Debug\ADV-24_ARRAY_PARAMS.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-24_ARRAY_PARAMS\obj\x86\Debug\ADV-24_ARRAY_PARAMS.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-24_ARRAY_PARAMS\bin\Debug\ADV-24_ARRAY_PARAMS.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-24_ARRAY_PARAMS\bin\Debug\ADV-24_ARRAY_PARAMS.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-24_ARRAY_PARAMS\obj\x86\Debug\ResolveAssemblyReference.cache

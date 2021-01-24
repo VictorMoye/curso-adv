@@ -1,0 +1,30 @@
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\bin\Debug\ADV-33_CONHECENDO_WPF.exe
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV-33_CONHECENDO_WPF_MarkupCompile.cache
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV-33_CONHECENDO_WPF.g.resources
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV_33_CONHECENDO_WPF.Properties.Resources.resources
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV-33_CONHECENDO_WPF.exe
+C:\Documents and Settings\aluno\Configurações locais\Dados de aplicativos\Temporary Projects\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV-33_CONHECENDO_WPF.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV-33_CONHECENDO_WPF.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV-33_CONHECENDO_WPF.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\bin\Debug\ADV-33_CONHECENDO_WPF.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\bin\Debug\ADV-33_CONHECENDO_WPF.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\MainWindow.baml
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\MainWindow.g.cs
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\App.g.cs
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV-33_CONHECENDO_WPF_MarkupCompile.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV-33_CONHECENDO_WPF.g.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV_33_CONHECENDO_WPF.Properties.Resources.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\Sobre.baml
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\Sobre.g.cs
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\obj\x86\Debug\ADV-33_CONHECENDO_WPF_MarkupCompile.lref
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-33_CONHECENDO_WPF\bin\Debug\MainWindow.xaml.cs

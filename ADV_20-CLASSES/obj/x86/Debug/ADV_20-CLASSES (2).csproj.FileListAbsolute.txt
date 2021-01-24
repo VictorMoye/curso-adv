@@ -1,0 +1,6 @@
+c:\Users\victo\OneDrive\Área de Trabalho\GiTHub e projetos\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\bin\Debug\ADV_20-CLASSES.exe
+c:\Users\victo\OneDrive\Área de Trabalho\GiTHub e projetos\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\bin\Debug\ADV_20-CLASSES.pdb
+c:\Users\victo\OneDrive\Área de Trabalho\GiTHub e projetos\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES (2).csprojAssemblyReference.cache
+c:\Users\victo\OneDrive\Área de Trabalho\GiTHub e projetos\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES (2).csproj.CoreCompileInputs.cache
+c:\Users\victo\OneDrive\Área de Trabalho\GiTHub e projetos\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.exe
+c:\Users\victo\OneDrive\Área de Trabalho\GiTHub e projetos\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV_20-CLASSES\obj\x86\Debug\ADV_20-CLASSES.pdb

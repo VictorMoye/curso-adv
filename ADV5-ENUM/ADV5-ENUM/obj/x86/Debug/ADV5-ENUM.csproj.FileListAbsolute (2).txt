@@ -1,0 +1,7 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV5-ENUM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV5-ENUM\bin\Debug\ADV5-ENUM.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV5-ENUM\bin\Debug\ADV5-ENUM.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV5-ENUM\obj\x86\Debug\ADV5-ENUM.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV5-ENUM\obj\x86\Debug\ADV5-ENUM.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV5-ENUM\ADV5-ENUM\obj\x86\Debug\ADV5-ENUM.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV5-ENUM\ADV5-ENUM\obj\x86\Debug\ADV5-ENUM.pdb

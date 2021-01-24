@@ -1,0 +1,7 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADB2-INTEIROS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADB2-INTEIROS\bin\Debug\ADB2-INTEIROS.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADB2-INTEIROS\bin\Debug\ADB2-INTEIROS.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADB2-INTEIROS\obj\x86\Debug\ADB2-INTEIROS.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADB2-INTEIROS\obj\x86\Debug\ADB2-INTEIROS.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADB2-INTEIROS\ADB2-INTEIROS\obj\x86\Debug\ADB2-INTEIROS.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADB2-INTEIROS\ADB2-INTEIROS\obj\x86\Debug\ADB2-INTEIROS.pdb

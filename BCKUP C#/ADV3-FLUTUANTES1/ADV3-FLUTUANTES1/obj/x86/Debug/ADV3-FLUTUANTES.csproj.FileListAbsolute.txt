@@ -1,0 +1,5 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\bin\Debug\ADV3-FLUTUANTES.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\bin\Debug\ADV3-FLUTUANTES.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\obj\x86\Debug\ADV3-FLUTUANTES.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\obj\x86\Debug\ADV3-FLUTUANTES.pdb

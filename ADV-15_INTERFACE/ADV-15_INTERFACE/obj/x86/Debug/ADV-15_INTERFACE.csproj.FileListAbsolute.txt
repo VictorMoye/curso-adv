@@ -1,0 +1,9 @@
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-15_INTERFACE\ADV-15_INTERFACE\bin\Debug\ADV-15_INTERFACE.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-15_INTERFACE\ADV-15_INTERFACE\bin\Debug\ADV-15_INTERFACE.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-15_INTERFACE\ADV-15_INTERFACE\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-15_INTERFACE\ADV-15_INTERFACE\obj\x86\Debug\ADV_15_INTERFACE.Form1.resources
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-15_INTERFACE\ADV-15_INTERFACE\obj\x86\Debug\ADV_15_INTERFACE.Properties.Resources.resources
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-15_INTERFACE\ADV-15_INTERFACE\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-15_INTERFACE\ADV-15_INTERFACE\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-15_INTERFACE\ADV-15_INTERFACE\obj\x86\Debug\ADV-15_INTERFACE.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-15_INTERFACE\ADV-15_INTERFACE\obj\x86\Debug\ADV-15_INTERFACE.pdb

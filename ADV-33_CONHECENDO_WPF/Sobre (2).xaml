@@ -1,0 +1,8 @@
+﻿<Window x:Class="ADV_33_CONHECENDO_WPF.Sobre"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sobre" Height="190" Width="300" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow">
+    <Grid>
+        <TextBlock Height="42" HorizontalAlignment="Left" Margin="86,30,0,0" Name="textBlock1" Text="versao 1.0" VerticalAlignment="Top" Width="83" />
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV4-STRINGS\bin\Debug\ADV4-STRINGS.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV4-STRINGS\bin\Debug\ADV4-STRINGS.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV4-STRINGS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV4-STRINGS\obj\x86\Debug\ADV4-STRINGS.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV4-STRINGS\obj\x86\Debug\ADV4-STRINGS.pdb

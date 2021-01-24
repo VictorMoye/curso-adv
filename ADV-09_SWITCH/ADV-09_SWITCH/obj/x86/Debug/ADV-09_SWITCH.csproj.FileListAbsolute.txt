@@ -1,0 +1,7 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-09_SWITCH\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-09_SWITCH\bin\Debug\ADV-09_SWITCH.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-09_SWITCH\bin\Debug\ADV-09_SWITCH.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-09_SWITCH\obj\x86\Debug\ADV-09_SWITCH.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-09_SWITCH\obj\x86\Debug\ADV-09_SWITCH.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-09_SWITCH\ADV-09_SWITCH\obj\x86\Debug\ADV-09_SWITCH.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-09_SWITCH\ADV-09_SWITCH\obj\x86\Debug\ADV-09_SWITCH.pdb

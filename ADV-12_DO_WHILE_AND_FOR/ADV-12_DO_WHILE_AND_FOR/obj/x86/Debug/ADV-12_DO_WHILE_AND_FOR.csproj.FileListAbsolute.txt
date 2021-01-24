@@ -1,0 +1,7 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-12_DO_WHILE_AND_FOR\bin\Debug\ADV-12_DO_WHILE_AND_FOR.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-12_DO_WHILE_AND_FOR\bin\Debug\ADV-12_DO_WHILE_AND_FOR.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-12_DO_WHILE_AND_FOR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-12_DO_WHILE_AND_FOR\obj\x86\Debug\ADV-12_DO_WHILE_AND_FOR.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-12_DO_WHILE_AND_FOR\obj\x86\Debug\ADV-12_DO_WHILE_AND_FOR.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-12_DO_WHILE_AND_FOR\ADV-12_DO_WHILE_AND_FOR\obj\x86\Debug\ADV-12_DO_WHILE_AND_FOR.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-12_DO_WHILE_AND_FOR\ADV-12_DO_WHILE_AND_FOR\obj\x86\Debug\ADV-12_DO_WHILE_AND_FOR.pdb

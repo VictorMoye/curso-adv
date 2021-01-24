@@ -1,0 +1,7 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV6-BOOL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV6-BOOL\bin\Debug\ADV6-BOOL.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV6-BOOL\bin\Debug\ADV6-BOOL.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV6-BOOL\obj\x86\Debug\ADV6-BOOL.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV6-BOOL\obj\x86\Debug\ADV6-BOOL.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV6-BOOL\ADV6-BOOL\obj\x86\Debug\ADV6-BOOL.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV6-BOOL\ADV6-BOOL\obj\x86\Debug\ADV6-BOOL.pdb

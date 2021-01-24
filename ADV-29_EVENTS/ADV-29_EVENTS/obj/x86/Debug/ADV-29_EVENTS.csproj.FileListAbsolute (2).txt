@@ -1,0 +1,22 @@
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-29_EVENTS\bin\Debug\ADV-29_EVENTS.exe
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-29_EVENTS\bin\Debug\ADV-29_EVENTS.pdb
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-29_EVENTS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-29_EVENTS\obj\x86\Debug\ADV_29_EVENTS.Form1.resources
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-29_EVENTS\obj\x86\Debug\ADV_29_EVENTS.Properties.Resources.resources
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-29_EVENTS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-29_EVENTS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-29_EVENTS\obj\x86\Debug\ADV-29_EVENTS.exe
+C:\Users\Pedro Jr\AppData\Local\Temporary Projects\ADV-29_EVENTS\obj\x86\Debug\ADV-29_EVENTS.pdb
+Y:\C# 2010\modelos\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\ADV-29_EVENTS.exe
+Y:\C# 2010\modelos\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\ADV-29_EVENTS.pdb
+C:\Users\Angelo\Desktop\CSharp-2010\modelos\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\ADV-29_EVENTS.exe
+C:\Users\Angelo\Desktop\CSharp-2010\modelos\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\ADV-29_EVENTS.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\ADV-29_EVENTS.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\ADV-29_EVENTS.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-29_EVENTS\ADV-29_EVENTS\bin\Debug\ADV-29_EVENTS.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-29_EVENTS\ADV-29_EVENTS\bin\Debug\ADV-29_EVENTS.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\ADV_29_EVENTS.FormRelogio.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\ADV_29_EVENTS.Properties.Resources.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-29_EVENTS\ADV-29_EVENTS\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,5 @@
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-25_ARRAYLIST\ADV-25_ARRAYLIST\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-25_ARRAYLIST\ADV-25_ARRAYLIST\obj\x86\Release\ADV_25_ARRAYLIST.FormArrayList.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-25_ARRAYLIST\ADV-25_ARRAYLIST\obj\x86\Release\ADV_25_ARRAYLIST.Properties.Resources.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-25_ARRAYLIST\ADV-25_ARRAYLIST\obj\x86\Release\GenerateResource.read.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-25_ARRAYLIST\ADV-25_ARRAYLIST\obj\x86\Release\GenerateResource.write.1.tlog

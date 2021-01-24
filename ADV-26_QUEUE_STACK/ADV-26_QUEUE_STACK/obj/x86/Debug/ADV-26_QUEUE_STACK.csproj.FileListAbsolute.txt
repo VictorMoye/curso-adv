@@ -1,0 +1,9 @@
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-26_QUEUE_STACK\ADV-26_QUEUE_STACK\bin\Debug\ADV-26_QUEUE_STACK.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-26_QUEUE_STACK\ADV-26_QUEUE_STACK\bin\Debug\ADV-26_QUEUE_STACK.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-26_QUEUE_STACK\ADV-26_QUEUE_STACK\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-26_QUEUE_STACK\ADV-26_QUEUE_STACK\obj\x86\Debug\ADV_26_QUEUE_STACK.FormQueueStack.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-26_QUEUE_STACK\ADV-26_QUEUE_STACK\obj\x86\Debug\ADV_26_QUEUE_STACK.Properties.Resources.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-26_QUEUE_STACK\ADV-26_QUEUE_STACK\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-26_QUEUE_STACK\ADV-26_QUEUE_STACK\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-26_QUEUE_STACK\ADV-26_QUEUE_STACK\obj\x86\Debug\ADV-26_QUEUE_STACK.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-26_QUEUE_STACK\ADV-26_QUEUE_STACK\obj\x86\Debug\ADV-26_QUEUE_STACK.pdb

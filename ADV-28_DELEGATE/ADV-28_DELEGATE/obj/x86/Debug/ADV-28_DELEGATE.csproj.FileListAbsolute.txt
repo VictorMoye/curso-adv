@@ -1,0 +1,5 @@
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-28_DELEGATE\ADV-28_DELEGATE\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-28_DELEGATE\ADV-28_DELEGATE\bin\Debug\ADV-28_DELEGATE.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-28_DELEGATE\ADV-28_DELEGATE\bin\Debug\ADV-28_DELEGATE.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-28_DELEGATE\ADV-28_DELEGATE\obj\x86\Debug\ADV-28_DELEGATE.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-28_DELEGATE\ADV-28_DELEGATE\obj\x86\Debug\ADV-28_DELEGATE.pdb

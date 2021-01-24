@@ -1,0 +1,5 @@
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\bin\Release\ADV-30_GENERIC.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\bin\Release\ADV-30_GENERIC.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\obj\x86\Release\ADV-30_GENERIC.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-30_GENERIC\ADV-30_GENERIC\obj\x86\Release\ADV-30_GENERIC.pdb

@@ -1,0 +1,36 @@
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\bin\Debug\ADV-21_HERANCA.exe
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\bin\Debug\ADV-21_HERANCA.pdb
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\obj\x86\Debug\ADV_20_HERANCA.FrmHeranca.resources
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\obj\x86\Debug\ADV_21_HERANCA.Properties.Resources.resources
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\obj\x86\Debug\ADV-21_HERANCA.exe
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-20_HERANCA\obj\x86\Debug\ADV-21_HERANCA.pdb
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV-21_HERANCA.exe
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV-21_HERANCA.pdb
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-21_HERANCA\bin\Debug\ADV-21_HERANCA.exe
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-21_HERANCA\bin\Debug\ADV-21_HERANCA.pdb
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV_20_HERANCA.FrmHeranca.resources
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV_21_HERANCA.Properties.Resources.resources
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-21_HERANCA\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\C# 2010\modelos\ADV-20_HERANCA\ADV-21_HERANCA\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\C# 2010\modelos\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV-21_HERANCA.exe
+Y:\C# 2010\modelos\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV-21_HERANCA.pdb
+Y:\C# 2010\modelos\ADV-21_HERANCA\ADV-21_HERANCA\bin\Debug\ADV-21_HERANCA.exe
+Y:\C# 2010\modelos\ADV-21_HERANCA\ADV-21_HERANCA\bin\Debug\ADV-21_HERANCA.pdb
+Y:\C# 2010\modelos\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\C# 2010\modelos\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV_21_HERANCA.FrmHeranca.resources
+Y:\C# 2010\modelos\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV_21_HERANCA.Properties.Resources.resources
+Y:\C# 2010\modelos\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\C# 2010\modelos\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV-21_HERANCA.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV-21_HERANCA.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV_21_HERANCA.FrmHeranca.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\ADV_21_HERANCA.Properties.Resources.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-21_HERANCA\ADV-21_HERANCA\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-21_HERANCA\ADV-21_HERANCA\bin\Debug\ADV-21_HERANCA.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-21_HERANCA\ADV-21_HERANCA\bin\Debug\ADV-21_HERANCA.pdb

@@ -1,0 +1,7 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\bin\Debug\ADV3-FLUTUANTES.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\bin\Debug\ADV3-FLUTUANTES.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\obj\x86\Debug\ADV3-FLUTUANTES.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV3-FLUTUANTES\obj\x86\Debug\ADV3-FLUTUANTES.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV3-FLUTUANTES\ADV3-FLUTUANTES\obj\x86\Debug\ADV3-FLUTUANTES.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV3-FLUTUANTES\ADV3-FLUTUANTES\obj\x86\Debug\ADV3-FLUTUANTES.pdb

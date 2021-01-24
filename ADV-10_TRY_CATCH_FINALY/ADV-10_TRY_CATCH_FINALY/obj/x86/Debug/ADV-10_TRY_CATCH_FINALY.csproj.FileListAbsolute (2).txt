@@ -1,0 +1,7 @@
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-10_TRY_CATCH_FINALY\bin\Debug\ADV-10_TRY_CATCH_FINALY.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-10_TRY_CATCH_FINALY\bin\Debug\ADV-10_TRY_CATCH_FINALY.pdb
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-10_TRY_CATCH_FINALY\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-10_TRY_CATCH_FINALY\obj\x86\Debug\ADV-10_TRY_CATCH_FINALY.exe
+C:\Users\aluno\AppData\Local\Temporary Projects\ADV-10_TRY_CATCH_FINALY\obj\x86\Debug\ADV-10_TRY_CATCH_FINALY.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-10_TRY_CATCH_FINALY\ADV-10_TRY_CATCH_FINALY\obj\x86\Debug\ADV-10_TRY_CATCH_FINALY.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-10_TRY_CATCH_FINALY\ADV-10_TRY_CATCH_FINALY\obj\x86\Debug\ADV-10_TRY_CATCH_FINALY.pdb

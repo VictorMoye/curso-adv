@@ -1,0 +1,16 @@
+Y:\C# 2010\modelos\ADV-16_LISTBOX\ADV-16_LISTBOX\bin\Debug\ADV-16_LISTBOX.exe
+Y:\C# 2010\modelos\ADV-16_LISTBOX\ADV-16_LISTBOX\bin\Debug\ADV-16_LISTBOX.pdb
+Y:\C# 2010\modelos\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ADV_16_LISTBOX.Properties.Resources.resources
+Y:\C# 2010\modelos\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ADV-16_LISTBOX.exe
+Y:\C# 2010\modelos\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ADV-16_LISTBOX.pdb
+Y:\C# 2010\modelos\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ADV_16_LISTBOX.ADV-16_LISTBOX.resources
+Y:\C# 2010\modelos\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ADV-16_LISTBOX.csproj.GenerateResource.Cache
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ADV-16_LISTBOX.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ADV-16_LISTBOX.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-16_LISTBOX\ADV-16_LISTBOX\bin\Debug\ADV-16_LISTBOX.exe
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-16_LISTBOX\ADV-16_LISTBOX\bin\Debug\ADV-16_LISTBOX.pdb
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ADV_16_LISTBOX.Properties.Resources.resources
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C# 2010\Vitor Hugo M. da Silva_11522\ADV-16_LISTBOX\ADV-16_LISTBOX\obj\x86\Debug\ADV_16_LISTBOX.frmListBox.resources
